@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋🖤
 
-<!--
-**cauedevitto/cauedevitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é caue de vitto
 
-Here are some ideas to get you started:
+ - estou estudando na [alura](https://www.alura.com.br/)
+ - estou me desenvolvendo na linguage javaScript
+ - ultilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 📫
+
+00001105584598sp@al.educacao.sp.gov.br
+- @de_vitto46
+
+![](https://media1.tenor.com/m/_iheVyzHcTgAAAAC/bandeira-do-s%C3%A3o-paulo-s%C3%A3o-paulo-fc.gif)
+
